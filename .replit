@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 03_Toboggan_Trajectory/part1.py"
