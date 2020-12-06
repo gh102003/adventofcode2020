@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 03_Toboggan_Trajectory/part1.py"
+run = "python3 06_Custom_Customs/part2.py"
